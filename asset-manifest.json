@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/media-airport/static/css/main.833dbf41.chunk.css",
+    "main.js": "/media-airport/static/js/main.a08337ac.chunk.js",
+    "main.js.map": "/media-airport/static/js/main.a08337ac.chunk.js.map",
+    "runtime-main.js": "/media-airport/static/js/runtime-main.fd21fbd5.js",
+    "runtime-main.js.map": "/media-airport/static/js/runtime-main.fd21fbd5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/media-airport/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0a358ce4.chunk.js": "/media-airport/static/js/2.0a358ce4.chunk.js",
+    "static/js/2.0a358ce4.chunk.js.map": "/media-airport/static/js/2.0a358ce4.chunk.js.map",
+    "static/js/3.a60b9ecc.chunk.js": "/media-airport/static/js/3.a60b9ecc.chunk.js",
+    "static/js/3.a60b9ecc.chunk.js.map": "/media-airport/static/js/3.a60b9ecc.chunk.js.map",
+    "index.html": "/media-airport/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/media-airport/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.833dbf41.chunk.css.map": "/media-airport/static/css/main.833dbf41.chunk.css.map",
+    "static/js/2.0a358ce4.chunk.js.LICENSE.txt": "/media-airport/static/js/2.0a358ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd21fbd5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0a358ce4.chunk.js",
+    "static/css/main.833dbf41.chunk.css",
+    "static/js/main.a08337ac.chunk.js"
+  ]
+}
